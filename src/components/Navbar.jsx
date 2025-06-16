@@ -17,6 +17,10 @@ const Navbar = () => {
         <li class="nav-item">
           <a class="nav-link" href="#">Blog</a>
         </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Admin Panel</a>
+        </li>
+       
        
         
       </ul>
